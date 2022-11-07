@@ -20,6 +20,8 @@ views/DeployerViews.js
 views/AttacherViews.js
 views/PlayerViews.js
 
+Compile useing ./reach compile
+
 Start program with terminal using ./reach react
 
 Start browser using localhost:3000
